@@ -178,7 +178,7 @@ Authors
 
 Nti Alfred - Github/Twitter
 
-Eunice Amable -Github/Twitter
+Eunice Amable - Github/Twitter
 
 License
 

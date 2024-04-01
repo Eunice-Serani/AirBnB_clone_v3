@@ -177,7 +177,9 @@ No known bugs at this time.
 Authors
 
 Nti Alfred - Github/Twitter
+
 Eunice Amable -Github/Twitter
 
 License
+
 Public Domain. No copy write protection.

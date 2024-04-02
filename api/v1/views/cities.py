@@ -97,3 +97,4 @@ def put_city(city_id):
             setattr(city, key, value)
     storage.save()
     return make_response(jsonify(city.to_dict()), 200)
+    
